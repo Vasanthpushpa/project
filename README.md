@@ -77,7 +77,7 @@ for ClassInd,conf,boxes in zip(ClassIndex.flatten(),confidence.flatten(),bbox):
 plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 ## Output
-![image](./images/image.png)
+![image](https://github.com/user-attachments/assets/2c055d93-515e-4e43-9eb9-8f8c272ebe43)
 
 ## Result:
 Thus, a python program using OpenCV to perform object detection with label in an image is implemented successfully.
